@@ -1,5 +1,6 @@
 # CALCULADORA FEITA COM REACT JS
 ## Dev: William Lima Alves
+## Link do deploy: https://main--euphonious-crepe-e7b5a3.netlify.app
 # Preview 
 ![Preview](https://github.com/WilliamLima300/CalculadoraREACTJS/blob/main/Preview%20Calculadora.png)
 # Getting Started with Create React App
