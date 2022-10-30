@@ -1,0 +1,42 @@
+button{
+    width:3em;
+    height: 3em;
+    font-size: 1.5em;
+    border:none;
+    border-radius: 2em;
+    margin:0.3em;
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.double{
+    width: 6.2em;
+    height: 3em;
+}
+
+.wrapper{
+    background-color: #111;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange{
+    background-color: #FF9500;
+    color:#FFF;
+}
+
+.gray{
+    background-color: #505050;
+    color:#FFF;
+}
+
+.results{
+    color:white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0.5em;
+    font-size: 3.5em;
+}
